@@ -15,7 +15,7 @@ The Stack Overflow Developer Survey provides a rich snapshot of the global devel
 The dataset used in this analysis is the Stack Overflow Developer Survey 2017, which can be found here: [https://insights.stackoverflow.com/survey/2017](https://insights.stackoverflow.com/survey/2017)
 
 ## Libraries
-```pandas numpy matplotlib seaborn``` are the libraries used in the notebook to perform the analysis.
+```pandas numpy matplotlib seaborn jupyter``` are the libraries used in the notebook to perform the analysis.
 
 ## Files:
 1. `notebook.ipynb` - Jupyter notebook containing analysis functions
